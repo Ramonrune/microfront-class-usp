@@ -1,11 +1,11 @@
 # Microfront class USP
 
-Bundlers:
+## Bundlers:
 
 ● Ferramenta que automatiza a instalação, atualização e remoção de bibliotecas e dependências. 
 ● Facilita a gestão de versões e compatibilidade entre pacotes.
 
-Multirepo:
+## Multirepo:
 
 ● Cada projeto em repositório separado
 ● Independência total dos projetos
@@ -13,24 +13,24 @@ Multirepo:
 ● Dificuldade para sincronizar dependências e versões
 
 
-Monorepo
+## Monorepo
 ● Múltiplos projetos dentro de um único repositório
 ● Centralização e compartilhamento facilitados
 ● Fácil gerenciamento de versões
 
 
-Monorepo: desafios
+### Monorepo: desafios
 ● Necessidade de ferramentas específicas para lidar com dependências compartilhadas
 ● Evitar duplicação e conflitos entre múltiplos projetos 
 ● Simplificar instalação e manutenção de pacotes dentro do mesmo repositório
 
-Workspaces
+## Workspaces
 ● Funcionalidade para gerenciar múltiplos pacotes em um único repositório (monorepo)
 ● Disponível em npm (v7+), Yarn e pnpm
 ● Evita duplicidade de dependências e facilita o desenvolvimento modular
 
 
-Single SPA
+## Single SPA
 ● Open source
 ● Orquestrador
 ● vários SPAs menores dentro de um SPA principal
@@ -40,7 +40,7 @@ Single SPA
 ● Isolamento com possibilidade de comunicação
 
 
-Native Federation
+## Native Federation
 ● Module Federation do Webpack 5
 ● Elimina dependência de ferramentas de build
 ● Module loader em runtime
@@ -51,7 +51,7 @@ Native Federation
 ● Federação via ESM nativo
 
 
-Piral
+## Piral
 ● Open source
 ● Oferece uma solução completa
 ● Pequenos módulos plugin (chamados pilets)
