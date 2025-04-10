@@ -2,8 +2,8 @@
 
 ## Bundlers:
 
-● Ferramenta que automatiza a instalação, atualização e remoção de bibliotecas e dependências. 
-● Facilita a gestão de versões e compatibilidade entre pacotes.
+- Ferramenta que automatiza a instalação, atualização e remoção de bibliotecas e dependências.
+- Facilita a gestão de versões e compatibilidade entre pacotes.
 
 ## Multirepo:
 
